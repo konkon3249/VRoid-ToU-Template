@@ -43,7 +43,7 @@ konkon(TwitterID @konkon28983820)が作りました。
 (英語) You cannot apply our product to the 3D model for redistribution or sale.  
   
 (日本語) 商品を使用した3Dモデルを第3者が利用できる状態にすることを禁止します。  
-(英語) You cannot apply our product to the 3D model which keeps downloadable by the third perty.  
+(英語) You cannot apply our product to the 3D model which keeps downloadable by the third party.  
   
 (日本語) 商品以外のサンプル画像等の転載を禁止します。  
 (英語) You cannnot redistribute the items accompanied with our products, which is including sample images or any other equivalent.  
