@@ -1,7 +1,7 @@
 # VRoid-ToU-Template
-VRoid関連商品の利用規約の英語テンプレートです。
-konkon(TwitterID @konkon28983820)が作りました。
-追加してほしい内容やより良い表現があればIssueを作成してください。
+VRoid関連商品の利用規約の英語テンプレートです。  
+konkon(TwitterID @konkon28983820)が作りました。  
+追加してほしい内容やより良い表現があればIssueを作成してください。  
 
 ## 基礎的な用語・文章
 
