@@ -31,9 +31,9 @@ konkon(TwitterID @konkon28983820)が作りました。
   
 (日本語) 商品をR18および暴力的表現を含む作品のために利用することを許可します。  
 (英語) You can apply our product to your 3D model used in the works including pornography and violence.  
-
-(日本語) 本商品は、購入者のみが利用可能な状態である限り、ソーシャルVRプラットフォーム上の3Dアバターに用いることができます。
-(英語) You can apply our product to your 3D avator in social VR platform as long as it keeps only available for the purchaser.
+  
+(日本語) 本商品は、購入者のみが利用可能な状態である限り、ソーシャルVRプラットフォーム上の3Dアバターに用いることができます。  
+(英語) You can apply our product to your 3D avator in social VR platform as long as it keeps only available for the purchaser.  
 
 ## 禁止に関する規約
 
@@ -54,6 +54,6 @@ konkon(TwitterID @konkon28983820)が作りました。
 
 (日本語) 本商品を用いた3Dアバターを、ソーシャルVRプラットフォームで第3者が使える状態にすることを禁じます。これにはVRChatにおけるパブリックアバター、アバターペデスタル、あるいは他プラットフォームにおける同様の利用が含まれます。
 (英語) You cannot apply our product to the 3D avator which is available for the third party in social VR platform. It includes uploading as public avator in VRChat, applying as avator pedestal in VRChat or any other equavalent use in social platforms.
-
-(日本語) 本商品を用いた3Dモデルを用いたコンテンツをサブスクリプションコンテンツサービスに投稿することを禁じます。これにはPatreon, Enty, PixivFanbox, Fantiaあるいは同様のサービスでの利用が含まれます。
-(英語) You cannot apply our product to the 3D model to create contents for subscription service which includes Patreon, Enty, PixivFanbox, Fantia or any other equivalent.
+  
+(日本語) 本商品を用いた3Dモデルを用いたコンテンツをサブスクリプションコンテンツサービスに投稿することを禁じます。これにはPatreon, Enty, PixivFanbox, Fantiaあるいは同様のサービスでの利用が含まれます。  
+(英語) You cannot apply our product to the 3D model to create contents for subscription service which includes Patreon, Enty, PixivFanbox, Fantia or any other equivalent.  
