@@ -1,6 +1,7 @@
 # VRoid-ToU-Template
 VRoid関連商品の利用規約の英語テンプレートです。  
 konkon(TwitterID @konkon28983820)が作りました。  
+本文章はVRoid関連商品への利用を意図して作成されたものですが、他の商品へ適用してもかまいません。また、使用にあたってクレジット表記は必要ありません。  
 追加してほしい内容やより良い表現があればぜひ教えてください。  
 
 ## 基礎的な用語・文章
@@ -12,7 +13,7 @@ konkon(TwitterID @konkon28983820)が作りました。
 (英語) If you download our products, we regard that you have agreed to the Term of Use.  
   
 (日本語) 商品の著作権は(作者の名前)に帰属します。  
-(英語) The copyright of our procucts belong to (作者の名前).  
+(英語) The copyright of our products belong to (作者の名前).  
   
 (日本語) 相談や質問は日本語でのみ受け付けます。  
 (英語) We only recieve requests or questions in Japanese.  
@@ -31,6 +32,9 @@ konkon(TwitterID @konkon28983820)が作りました。
 (日本語) 商品をR18および暴力的表現を含む作品のために利用することを許可します。  
 (英語) You can apply our product to your 3D model used in the works including pornography and violence.  
 
+(日本語) 本商品は、購入者のみが利用可能な状態である限り、ソーシャルVRプラットフォーム上の3Dアバターに用いることができます。
+(英語) You can apply our product to your 3D avator in social VR platform as long as it keeps only available for the purchaser.
+
 ## 禁止に関する規約
 
 (日本語) 商品の作者を詐称することを禁止します。  
@@ -46,4 +50,10 @@ konkon(TwitterID @konkon28983820)が作りました。
 (英語) You cannot apply our product to the 3D model which keeps downloadable by the third party.  
   
 (日本語) 商品以外のサンプル画像等の転載を禁止します。  
-(英語) You cannnot redistribute the items accompanied with our products, which is including sample images or any other equivalent.  
+(英語) You cannot redistribute the items accompanied with our products, which is including sample images or any other equivalent.  
+
+(日本語) 本商品を用いた3Dアバターを、ソーシャルVRプラットフォームで第3者が使える状態にすることを禁じます。これにはVRChatにおけるパブリックアバター、アバターペデスタル、あるいは他プラットフォームにおける同様の利用が含まれます。
+(英語) You cannot apply our product to the 3D avator which is available for the third party in social VR platform. It includes uploading as public avator in VRChat, applying as avator pedestal in VRChat or any other equavalent use in social platforms.
+
+(日本語) 本商品を用いた3Dモデルを用いたコンテンツをサブスクリプションコンテンツサービスに投稿することを禁じます。これにはPatreon, Enty, PixivFanbox, Fantiaあるいは同様のサービスでの利用が含まれます。
+(英語) You cannot apply our product to the 3D model to create contents for subscription service which includes Patreon, Enty, PixivFanbox, Fantia or any other equivalent.
